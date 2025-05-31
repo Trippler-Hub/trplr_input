@@ -1,6 +1,7 @@
 # qb-input
 ## Preview
-    ![image3](https://github.com/user-attachments/assets/69213866-e773-40a2-8632-040eca47b92b)
+    ![image3](https://github.com/user-attachments/assets/76974b80-6168-4496-81b2-7326ad9295d4)
+
 
 
 NUI input system for QBCore
