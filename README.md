@@ -1,6 +1,6 @@
 # qb-input
 ## Preview
-    ![image3](https://github.com/user-attachments/assets/76974b80-6168-4496-81b2-7326ad9295d4)
+    https://github.com/user-attachments/assets/76974b80-6168-4496-81b2-7326ad9295d4
 
 
 
