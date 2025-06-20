@@ -9,6 +9,8 @@ client_scripts {
     'client/*.lua'
 }
 
+server_script 'server/*.lua'
+
 ui_page 'html/index.html'
 
 files {
