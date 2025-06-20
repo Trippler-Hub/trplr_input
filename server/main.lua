@@ -7,6 +7,6 @@ CreateThread(function()
    print("          |___/                                     ")
 )
 
-if GetCurrentResourceName() ~= "trplr_hud" then
-    return print("^6Changing the resource's name wont't let the resource start, ^1" .. GetCurrentResourceName() .. "^0 > ^2 trplr_hud ^7")
+if GetCurrentResourceName() ~= "trplr_input" then
+    return print("^6Changing the resource's name wont't let the resource start, ^1" .. GetCurrentResourceName() .. "^0 > ^2 trplr_input ^7")
 end
